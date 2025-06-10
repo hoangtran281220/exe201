@@ -1,0 +1,52 @@
+﻿@page
+@model exeFinal.Pages.BackgroundModel
+@{
+    ViewData["Title"] = "Phông nền";
+    Layout = "_Layout";
+}
+
+@* Header + Navigation *@
+@* @await Html.PartialAsync("_TopBar") *@
+@await Html.PartialAsync("_Header")
+@await Html.PartialAsync("_MainNav")
+
+<div class="container">
+    <div class="content">
+        @await Html.PartialAsync("_Sidebar")
+
+        <main class="main">
+            <h3>PHÔNG NỀN</h3>
+
+            @* Nếu bạn có danh sách sản phẩm, đặt thêm ở đây *@
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="/images/BG.jpg" alt=BG"">
+                    <h3>Phông nền sao</h3>
+                    <p class="price">39.000</p>
+                    <a href="https://www.facebook.com/profile.php?id=61576621782744" target="_blank" class="btn">MUA NGAY</a>
+                </div>
+                <div class="product-item">
+                    <img src="/images/BGbien.jpg" alt="BG bien">
+                    <h3>Phông nền biển</h3>
+                    <p class="price">39.000</p>
+                    <a href="https://www.facebook.com/profile.php?id=61576621782744" target="_blank" class="btn">MUA NGAY</a>
+                </div>
+                <div class="product-item">
+                    <img src="/images/BGnatra.jpg" alt="B natra">
+                    <h3>Phông nền natra</h3>
+                    <p class="price">39.000</p>
+                    <a href="https://www.facebook.com/profile.php?id=61576621782744" target="_blank" class="btn">MUA NGAY</a>
+                </div>
+                <div class="product-item">
+                    <img src="/images/BGvangoc.jpg" alt="BGvangoc">
+                    <h3>Phông nền 2</h3>
+                    <p class="price">39.000</p>
+                    <a href="https://www.facebook.com/profile.php?id=61576621782744" target="_blank" class="btn">MUA NGAY</a>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+
+@await Html.PartialAsync("_PreFooter")
+@await Html.PartialAsync("_MainFooter")

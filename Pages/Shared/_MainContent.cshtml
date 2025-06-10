@@ -1,0 +1,113 @@
+﻿<!-- Swiper JS & CSS -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<style>
+    .swiper.mySwiperLarge {
+        width: 1000px;
+        padding: 20px 0;
+        background-color: #f0f4f8;
+    }
+
+    .mySwiperLarge .swiper-wrapper {
+        display: flex;
+    }
+
+    .mySwiperLarge .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+
+        .mySwiperLarge .swiper-slide img {
+            height: 480px;
+            width: auto;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 50%;
+        width: 44px;
+        height: 44px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s, transform 0.2s;
+    }
+
+        .swiper-button-next:hover,
+        .swiper-button-prev:hover {
+            background-color: rgba(0, 0, 0, 0.6);
+            transform: scale(1.1);
+        }
+
+        /* Đảm bảo icon không bị mất */
+        .swiper-button-next::after,
+        .swiper-button-prev::after {
+            font-size: 18px;
+            font-weight: bold;
+        }
+</style>
+<div class="container">
+<!-- Main Content -->
+<div class="main-content">
+    
+
+    <div class="swiper mySwiperLarge">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="/images/an.png" alt="Móc khóa hình natra">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/bien.png" alt="Móc khóa 2">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/cuoi ran.png" alt="Móc khóa ran">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/ei cuoi.png" alt="Móc khóa ">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/std-thay-do.png" alt="Móc khóa ei">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/shin.png" alt="Móc khóa shinichi">
+            </div>
+            <div class="swiper-slide">
+                <img src="/images/ran.png" alt="Móc khóa ran">
+            </div>
+        </div>
+
+        <!-- Navigation buttons -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+
+        <!-- Pagination (optional) -->
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+</div>
+
+<script>
+    const swiperLarge = new Swiper('.mySwiperLarge', {
+        loop: true, // Cho phép lặp lại vòng trượt
+        autoplay: false, // Tắt tự động trượt
+        slidesPerView: 1,
+        spaceBetween: 1,
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        }
+    });
+</script>

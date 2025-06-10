@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@* Layout file reference *@
+@{
+    Layout = "_Layout";
+}
+
+@* Components *@
+
+@* @await Html.PartialAsync("_TopBar") *@
+@await Html.PartialAsync("_Header")
+@await Html.PartialAsync("_MainNav")
+
+<div class="container">
+    <div class="content">
+        @* @await Html.PartialAsync("_Sidebar") *@
+        @await Html.PartialAsync("_MainContent")
+    </div>
+
+    @await Html.PartialAsync("_CategoryFilter")
+    @await Html.PartialAsync("_NewArrivals")
+    @await Html.PartialAsync("_Banner")
+    @* @await Html.PartialAsync("_PreOrder") *@
+    @await Html.PartialAsync("_AnimeSections")
+    @await Html.PartialAsync("_ShopInfo")
+</div>
+
+@await Html.PartialAsync("_PreFooter")
+@await Html.PartialAsync("_MainFooter")

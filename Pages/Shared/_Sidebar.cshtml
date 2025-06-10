@@ -1,0 +1,34 @@
+﻿<style>
+    .sidebar ul li a {
+        display: block;
+        padding: 8px 12px;
+        color: #000; /* Màu chữ mặc định */
+        text-decoration: none;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+        .sidebar ul li a:hover {
+            background-color: #f44336; /* Màu nền khi hover */
+            color: white; /* Màu chữ khi hover */
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+</style>
+<div class="sidebar">
+    <h3>DANH MỤC SẢN PHẨM</h3>
+    <ul>
+        <li><a asp-page="/newItem">HÀNG MỚI VỀ</a></li>
+        <li><a href="#">SẢN PHẨM CÓ SẴN</a></li>
+        <li><a asp-page="/Character">NHÂN VẬT</a></li>
+        <li><a asp-page="/Background">PHÔNG NỀN</a></li>
+        <li><a asp-page="/SetClother">SET ĐỒ</a></li>
+        <li><a href="#">NARUTO</a></li>
+        <li><a href="#">BLUE ARCHIVE</a></li>
+        <li><a href="#">AZUR LANE</a></li>
+        <li><a href="#">DATE A LIVE</a></li>
+        <li><a href="#">GENSHIN IMPACT</a></li>
+        <li><a href="#">JUJUTSU KAISEN</a></li>
+        <li><a href="#">MY DRESS UP DARLING</a></li>
+    </ul>
+</div>

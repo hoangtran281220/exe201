@@ -1,0 +1,50 @@
+﻿<section class="category-filter">
+    <h1>DANH MỤC ĐẶC BIỆT</h1>
+    <div class="filter-grid flat-list">
+        <a href="#">Các nhân vật yêu thích</a>
+        <a href="#">Hàng Pre-order</a>
+        <a href="#">Custom theo ý thích</a>
+    </div>
+</section>
+
+<style>
+    .category-filter {
+        padding: 40px 20px;
+        background-color: #f9f9f9;
+        text-align: center;
+    }
+
+        .category-filter h1 {
+            font-size: 32px;
+            margin-bottom: 30px;
+            color: #333;
+        }
+
+    .filter-grid.flat-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        justify-items: center;
+    }
+
+        .filter-grid.flat-list a {
+            color: #2196f3;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 18px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 12px 24px;
+            transition: all 0.3s ease;
+            background-color: white;
+        }
+
+            .filter-grid.flat-list a:hover {
+                background-color: #f44336;
+                color: white;
+                text-decoration: none;
+                border-color: #f44336;
+            }
+</style>

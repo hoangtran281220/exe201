@@ -1,0 +1,99 @@
+﻿@page
+@model exeFinal.Pages.introduceModel
+@{
+    ViewData["Title"] = "Giới thiệu";
+    Layout = "_Layout";
+}
+
+@* @await Html.PartialAsync("_TopBar") *@
+@await Html.PartialAsync("_Header")
+@await Html.PartialAsync("_MainNav")
+
+<div class="container">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a asp-page="/Index">Trang chủ</a> &gt;
+        <span>Giới thiệu Fashion character Shop</span>
+    </div>
+
+    <!-- Tiêu đề -->
+    <h1 class="page-title">GIỚI THIỆU FASHION CHARACTER SHOP</h1>
+
+    <div class="intro-content">
+        <h2>Giới Thiệu Fashion character Shop – Thế Giới Của Những Tín Đồ Anime - Mô Hình Sưu Tầm</h2>
+        <p>Fashion character Shop chuyên móc khóa anime, manga hoặc siêu tầm mô hình chính hãng chất lượng, là điểm đến hoàn hảo cho các bạn fan cứng anime/manga.</p>
+
+        <p><strong>Đồng hành cùng cộng đồng Anime & Mô Hình</strong></p>
+        <p>Ra đời từ 2025, Fashion character tự hào là nơi kết nối cộng đồng yêu thích anime/manga với mô hình sưu tầm chính hãng.</p>
+
+        <h3>Nhận Customize theo sở thích khách hàng</h3>
+        <p>Shop hỗ trợ order mô hình từ Nhật Bản, Trung Quốc và các nước khác. Đảm bảo sản phẩm độc đáo, hiếm, limited edition chính hãng đến tay bạn.</p>
+
+        <h3>Vì sao bạn nên chọn Fashion character?</h3>
+        <ul>
+            <li>✅ Cam kết hàng chính hãng 100%, nói không với hàng giả, hàng kém chất lượng</li>
+            <li>✅ Hỗ trợ order hàng nhanh chóng, bao giá rẻ nhất trên mỗi đơn đặt</li>
+            <li>✅ Đội ngũ tư vấn thân thiện, tư vấn nhiệt tình</li>
+            <li>✅ Giao hàng toàn quốc, đóng gói an toàn, tracking theo dõi vận chuyển</li>
+        </ul>
+
+        <p>📍 Ghé shop trực tiếp tại: <strong>Đại học fpt, Hòa lạc, Thạch Thất, Hà Nội</strong></p>
+        <p>📞 Hotline: <strong>086.881.7176</strong> – ✉ Email: <strong>lannh200704@gmail.com</strong></p>
+
+        <p><em>Với các đơn hàng trên website, shop sẽ gọi điện xác nhận và báo phí ship cho khách trước khi đóng gói. Hàng sẽ được gửi đi sau khi khách đồng ý với phí ship.</em></p>
+    </div>
+</div>
+
+@await Html.PartialAsync("_ShopInfo")
+@await Html.PartialAsync("_PreFooter")
+@await Html.PartialAsync("_MainFooter")
+
+<style>
+
+    .breadcrumb {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 16px;
+    }
+
+        .breadcrumb a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .breadcrumb a:hover {
+                text-decoration: underline;
+            }
+
+    .page-title {
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 24px;
+        text-align: center;
+        color: #222;
+    }
+
+    .intro-content {
+        font-size: 16px;
+        color: #333;
+        line-height: 1.7;
+    }
+
+        .intro-content h2,
+        .intro-content h3 {
+            margin-top: 20px;
+            color: #d10000;
+        }
+
+        .intro-content ul {
+            padding-left: 20px;
+        }
+
+            .intro-content ul li {
+                margin-bottom: 6px;
+            }
+
+        .intro-content strong {
+            color: #000;
+        }
+</style>

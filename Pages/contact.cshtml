@@ -1,0 +1,96 @@
+﻿@page
+@model exeFinal.Pages.contactModel
+@{
+    ViewData["Title"] = "Liên hệ";
+    Layout = "_Layout";
+}
+
+@* @await Html.PartialAsync("_TopBar") *@
+@await Html.PartialAsync("_Header")
+@await Html.PartialAsync("_MainNav")
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+    <a asp-page="/Index">Trang chủ</a> &gt;
+    <span>Liên hệ</span>
+</div>
+
+<!-- Tiêu đề và bản đồ -->
+<h1 class="page-title">LIÊN HỆ</h1>
+<div class="map-container" style="text-align:center; margin-bottom: 20px;">
+    <iframe src="https://www.google.com/maps?q=FPT+University+Hà+Nội&output=embed"
+            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+
+    <!-- Nút chỉ đường -->
+    <div style="margin-top: 12px;">
+        <a href="https://www.google.com/maps/dir/?api=1&destination=FPT+University+Hà+Nội"
+           target="_blank"
+           style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+            📍 Chỉ đường đến shop
+        </a>
+    </div>
+</div>
+
+
+<!-- Thông tin liên hệ -->
+<div class="contact-info" style="text-align:center; margin-bottom: 30px;">
+    <p><strong>Địa chỉ:</strong> FU hòa lạc - Thạch thất - Hà Nội</p>
+    <p><strong>SDT/Zalo:</strong> 086.881.7176</p>
+    <p><strong>Email:</strong> lannh200704@gmail.com</p>
+</div>
+
+<!-- Form liên hệ -->
+<form class="contact-form" method="post" style="max-width:600px; margin:0 auto; font-size:15px;">
+    <div>
+        <label for="name">Tên của bạn</label><br />
+        <input type="text" id="name" name="name" style="width:100%; padding:10px; margin-bottom:10px;" />
+    </div>
+    <div>
+        <label for="email">Email</label><br />
+        <input type="email" id="email" name="email" style="width:100%; padding:10px; margin-bottom:10px;" />
+    </div>
+    <div>
+        <label for="phone">Số điện thoại</label><br />
+        <input type="tel" id="phone" name="phone" style="width:100%; padding:10px; margin-bottom:10px;" />
+    </div>
+    <div>
+        <label for="message">Viết bình luận</label><br />
+        <textarea id="message" name="message" rows="5" style="width:100%; padding:10px; margin-bottom:20px;"></textarea>
+    </div>
+    <button type="submit" style="padding:12px 24px; background-color:black; color:white; border:none; cursor:pointer;">
+        GỬI LIÊN HỆ
+    </button>
+</form>
+
+@await Html.PartialAsync("_ShopInfo")
+@await Html.PartialAsync("_PreFooter")
+@await Html.PartialAsync("_MainFooter")
+
+<style>
+    .breadcrumb {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 16px;
+    }
+
+        .breadcrumb a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .breadcrumb a:hover {
+                text-decoration: underline;
+            }
+
+    .page-title {
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .contact-form label {
+        font-weight: bold;
+    }
+</style>

@@ -1,0 +1,90 @@
+﻿@page
+@model exeFinal.Pages.guildBuyModel
+@{
+    ViewData["Title"] = "Hướng dẫn mua hàng";
+    Layout = "_Layout";
+}
+
+@* @await Html.PartialAsync("_TopBar") *@
+@await Html.PartialAsync("_Header")
+@await Html.PartialAsync("_MainNav")
+
+<div class="container">
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <a asp-page="/Index">Trang chủ</a> &gt; <span>Hướng dẫn mua hàng</span>
+    </div>
+
+    <!-- Tiêu đề -->
+    <h1 class="page-title">HƯỚNG DẪN MUA HÀNG</h1>
+
+    <!-- Nội dung chính -->
+    <div class="guide-content">
+        <p>Shop ship hàng COD trên toàn quốc các bạn nhé. (Áp dụng với đơn hàng từ 100.000 trở lên khi đi khu vực ngoại thành Hà Nội)</p>
+        <p>Các bạn có thể đặt hàng bằng các cách sau:</p>
+        <ol>
+            @* <li>Đặt hàng trực tiếp trên website: Nhân viên của Shop sẽ liên hệ trong vòng 24h</li> *@
+            <li>Đặt hàng qua inbox Facebook: <a href="https://www.facebook.com/profile.php?id=61576621782744" target="_blank">https://www.facebook.com/profile.php?id=61576621782744</a></li>
+            <li>Liên hệ trực tiếp số ĐT: 0868817176 (Chỉ từ 8h30 tới 20h)</li>
+            <li>Phí ship của mỗi đơn hàng sẽ được nhân viên cửa hàng thông báo khi gọi điện xác nhận đơn hàng</li>
+            <li>Với các đơn hàng từ 100.000 trở lên bên mình mới ship COD ngoại thành Hà Nội và từ 50.000 trở lên với các đơn trong nội thành Hà Nội.</li>
+        </ol>
+        <p class="thank-you"><strong><em>Cảm ơn các bạn đã ủng hộ shop!</em></strong></p>
+    </div>
+</div>
+
+@await Html.PartialAsync("_ShopInfo")
+@await Html.PartialAsync("_PreFooter")
+@await Html.PartialAsync("_MainFooter")
+
+<style>
+
+    .breadcrumb {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 16px;
+    }
+
+        .breadcrumb a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .breadcrumb a:hover {
+                text-decoration: underline;
+            }
+
+    .page-title {
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 24px;
+        text-align: center;
+        color: #222;
+    }
+
+    .guide-content {
+        font-size: 16px;
+        color: #333;
+        line-height: 1.6;
+    }
+
+        .guide-content ol {
+            padding-left: 20px;
+        }
+
+        .guide-content a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+            .guide-content a:hover {
+                text-decoration: underline;
+            }
+
+    .thank-you {
+        margin-top: 24px;
+        color: red;
+        font-weight: bold;
+        text-align: center;
+    }
+</style>

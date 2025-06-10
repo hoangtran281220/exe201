@@ -1,0 +1,115 @@
+﻿<title>JokerFace Shop</title>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .header-with-bg {
+        background-image: url('/images/logo.jpg'); /* đường dẫn tới logo của bạn */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 200px; /* thay đổi nếu logo cao hơn/thấp hơn */
+        width: 100%;
+        position: relative;
+    }
+
+    .top-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: rgba(255, 255, 255, 0.8); /* nền nhẹ cho chữ nổi */
+        font-size: 14px;
+    }
+
+    .search-bar {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+        .search-bar input {
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .search-bar button {
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+
+    .cart {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .main-nav {
+        background-color: red;
+        padding: 12px 0;
+        text-align: center;
+    }
+
+        .main-nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+        }
+
+        .main-nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .main-nav a:hover {
+                text-decoration: underline;
+            }
+
+
+    .auth-buttons {
+        position: absolute;
+        top: 20px;
+        right: 30px;
+        display: flex;
+        gap: 10px;
+    }
+
+        .auth-buttons button {
+            background-color: #ff3333;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .auth-buttons button:hover {
+                background-color: #cc0000;
+            }
+</style>
+<header class="header-with-bg">
+    <div class="container header-bar">
+        <div class="auth-buttons">
+            <form asp-page="/Login" method="get">
+                <button type="submit">Đăng nhập</button>
+            </form>
+            <form asp-page="/Register" method="get">
+                <button type="submit">Đăng ký</button>
+            </form>
+        </div>
+    </div>
+</header>
+
+
