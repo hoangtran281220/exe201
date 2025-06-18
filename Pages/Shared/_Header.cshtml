@@ -1,4 +1,4 @@
-﻿<title>JokerFace Shop</title>
+﻿<title>Fashion Character Shop</title>
 <style>
     * {
         box-sizing: border-box;
@@ -11,13 +11,17 @@
     }
 
     .header-with-bg {
-        background-image: url('/images/logo.jpg'); /* đường dẫn tới logo của bạn */
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        height: 200px; /* thay đổi nếu logo cao hơn/thấp hơn */
-        width: 100%;
         position: relative;
+        height: 200px;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logo-img {
+        height: 180px;
+        width: auto;
     }
 
     .top-bar {
@@ -53,7 +57,7 @@
     }
 
     .main-nav {
-        background-color: red;
+        background-color: #f1f3f3;
         padding: 12px 0;
         text-align: center;
     }
@@ -100,15 +104,14 @@
             }
 </style>
 <header class="header-with-bg">
-    <div class="container header-bar">
-        <div class="auth-buttons">
-            <form asp-page="/Login" method="get">
-                <button type="submit">Đăng nhập</button>
-            </form>
-            <form asp-page="/Register" method="get">
-                <button type="submit">Đăng ký</button>
-            </form>
-        </div>
+    <img src="/images/logo1.jpg" alt="Logo" class="logo-img" />
+    <div class="auth-buttons">
+        @* <form asp-page="/Login" method="get"> *@
+        @*     <button type="submit">Đăng nhập</button> *@
+        @* </form> *@
+        @* <form asp-page="/Register" method="get"> *@
+        @*     <button type="submit">Đăng ký</button> *@
+        @* </form> *@
     </div>
 </header>
 

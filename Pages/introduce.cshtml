@@ -19,6 +19,37 @@
     <!-- Tiêu đề -->
     <h1 class="page-title">GIỚI THIỆU FASHION CHARACTER SHOP</h1>
 
+    <div class="team-section d-flex align-items-center justify-content-center">
+        <div class="team-container row">
+            <!-- Cột ảnh: chiếm 4/12 -->
+            <div class="col-md-4 team-image-col text-center">
+                <img src="~/images/imgggpt.png" alt="About the Team" class="img-fluid team-image" />
+            </div>
+
+            <!-- Cột nội dung: chiếm 8/12 -->
+            <div class="col-md-8 team-text-col">
+                <h2 class="team-title">Về nhóm</h2>
+                <h3>Điểm đến của tín đồ chơi sưu tập Standee – Fashion Character</h3>
+                <p>
+                    Là điểm đến cho các tín đồ yêu thích các nhân vật từ các game, phim nổi tiếng trên thế giới,
+                    Fashion Character đáp ứng được nhu cầu mua standee sưu tập của giới trẻ.
+                </p>
+                <ul>
+                    <li>✅ Yên tâm về chất lượng sản phẩm</li>
+                    <li>✅ Không cần chờ đợi lâu</li>
+                    <li>✅ Thỏa sức thiết kế mô hình nhân vật theo ý thích của khách hàng</li>
+                    <li>✅ Mix & Match thoải mái về style cho mỗi nhân vật mình yêu thích</li>
+                </ul>
+                <p>
+                    Tại Fashion Character, bạn sẽ tìm thấy các dòng nhân vật đa dạng từ truyện tranh, game cho đến các bộ phim nổi tiếng,
+                    đa dạng chủ đề như Figure nhân vật,... và còn rất nhiều sản phẩm sưu tập khác đang chờ bạn khám phá.
+                </p>
+
+                <a href="#" class="btn-view-more">View More →</a>
+            </div>
+        </div>
+    </div>
+
     <div class="intro-content">
         <h2>Giới Thiệu Fashion character Shop – Thế Giới Của Những Tín Đồ Anime - Mô Hình Sưu Tầm</h2>
         <p>Fashion character Shop chuyên móc khóa anime, manga hoặc siêu tầm mô hình chính hãng chất lượng, là điểm đến hoàn hảo cho các bạn fan cứng anime/manga.</p>
@@ -95,5 +126,54 @@
 
         .intro-content strong {
             color: #000;
+        }
+
+
+    .team-section {
+        background-color: #fff0f0;
+        padding: 40px 20px;
+        border-radius: 12px;
+        margin: 40px 0;
+    }
+
+    .team-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .team-image-col img.team-image {
+        width: 100%;
+        max-width: 300px;
+        border-radius: 50%;
+        border: 2px solid #e6cfdc;
+    }
+
+    .team-title {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 16px;
+    }
+
+    .team-description {
+        font-size: 16px;
+        color: #444;
+        margin-bottom: 20px;
+        line-height: 1.6;
+    }
+
+    .btn-view-more {
+        display: inline-block;
+        background-color: #000;
+        color: #fff;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 6px;
+        transition: background 0.3s;
+    }
+
+        .btn-view-more:hover {
+            background-color: #444;
         }
 </style>

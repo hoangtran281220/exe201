@@ -98,6 +98,31 @@ img {
     font-weight: bold;
 }
 
+.nav-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 4px;
+    background-color: #fef6ff; /* Nền nhẹ hồng pastel */
+    color: #333; /* Chữ tối */
+    border: 2px solid #ccc; /* Border luôn hiển thị */
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+}
+
+    .nav-btn:hover {
+        background-color: #d0e7ff;
+        color: #004080;
+        border-color: #90c3ff;
+    }
+
+    .nav-btn.active {
+        background-color: #007bff;
+        color: white;
+        border-color: #007bff;
+    }
+
 .nav-list {
     list-style: none;
     display: flex;
@@ -123,6 +148,7 @@ img {
             .nav-list li a:hover {
                 color: #e60012;
             }
+
 
 /* Dropdown chuẩn */
 .main-nav .dropdown-menu {
