@@ -81,8 +81,16 @@
       "PackagePath": "staticwebassets\\images\\fig5.jpg"
     },
     {
+      "Id": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\imgggpt.png",
+      "PackagePath": "staticwebassets\\images\\imgggpt.png"
+    },
+    {
       "Id": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo1.jpg",
+      "PackagePath": "staticwebassets\\images\\logo1.jpg"
     },
     {
       "Id": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\natra.png",

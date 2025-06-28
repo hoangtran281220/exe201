@@ -32,3 +32,4 @@ D:\TaiLieu\EXE\exeFinal\obj\Debug\net8.0\refint\exeFinal.dll
 D:\TaiLieu\EXE\exeFinal\obj\Debug\net8.0\exeFinal.pdb
 D:\TaiLieu\EXE\exeFinal\obj\Debug\net8.0\exeFinal.genruntimeconfig.cache
 D:\TaiLieu\EXE\exeFinal\obj\Debug\net8.0\ref\exeFinal.dll
+D:\TaiLieu\EXE\exeFinal\obj\Debug\net8.0\exeFinal.sourcelink.json

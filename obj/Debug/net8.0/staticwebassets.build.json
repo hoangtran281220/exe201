@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pLY7HbPp9Vk1UIt7LTI0Xjyh8fNyR2bc06Vmf9By3QE=",
+  "Hash": "vwj5ET6zumLiJdiFZhi35q3Qbn1/OeBULpKX1bzh9a0=",
   "Source": "exeFinal",
   "BasePath": "_content/exeFinal",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ef8nhtrt9h",
-      "Integrity": "lkD2PMRziz7Uf69bR7sfyW4va7a6p2tAChtWN+S/XAE=",
+      "Fingerprint": "i7krv917tw",
+      "Integrity": "DrLNP6Exy5khqZJhUXBn0/cW3tTvqlzjvZDM4uUPaw0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -458,6 +458,27 @@
       "OriginalItemSpec": "wwwroot\\images\\fig5.jpg"
     },
     {
+      "Identity": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\imgggpt.png",
+      "SourceId": "exeFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\",
+      "BasePath": "_content/exeFinal",
+      "RelativePath": "images/imgggpt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mxa38leiua",
+      "Integrity": "5smH5BBMDlPHecNaTUgAaHjtztpvYhS4uf6Fau4hFx0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imgggpt.png"
+    },
+    {
       "Identity": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo.jpg",
       "SourceId": "exeFinal",
       "SourceType": "Discovered",
@@ -477,6 +498,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo1.jpg",
+      "SourceId": "exeFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\",
+      "BasePath": "_content/exeFinal",
+      "RelativePath": "images/logo1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "navlrrml5q",
+      "Integrity": "r3gGIKxdby9cTVehUjbbjNo7Nlxu14xR59KbKi4R4sY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo1.jpg"
     },
     {
       "Identity": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\natra.png",
@@ -1961,7 +2003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7723"
+          "Value": "8367"
         },
         {
           "Name": "Content-Type",
@@ -1969,11 +2011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lkD2PMRziz7Uf69bR7sfyW4va7a6p2tAChtWN+S/XAE=\""
+          "Value": "\"DrLNP6Exy5khqZJhUXBn0/cW3tTvqlzjvZDM4uUPaw0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 10:20:21 GMT"
+          "Value": "Wed, 11 Jun 2025 15:29:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1983,12 +2025,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lkD2PMRziz7Uf69bR7sfyW4va7a6p2tAChtWN+S/XAE="
+          "Value": "sha256-DrLNP6Exy5khqZJhUXBn0/cW3tTvqlzjvZDM4uUPaw0="
         }
       ]
     },
     {
-      "Route": "css/site.ef8nhtrt9h.css",
+      "Route": "css/site.i7krv917tw.css",
       "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1998,7 +2040,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7723"
+          "Value": "8367"
         },
         {
           "Name": "Content-Type",
@@ -2006,11 +2048,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lkD2PMRziz7Uf69bR7sfyW4va7a6p2tAChtWN+S/XAE=\""
+          "Value": "\"DrLNP6Exy5khqZJhUXBn0/cW3tTvqlzjvZDM4uUPaw0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 10:20:21 GMT"
+          "Value": "Wed, 11 Jun 2025 15:29:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2020,7 +2062,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ef8nhtrt9h"
+          "Value": "i7krv917tw"
         },
         {
           "Name": "label",
@@ -2028,7 +2070,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lkD2PMRziz7Uf69bR7sfyW4va7a6p2tAChtWN+S/XAE="
+          "Value": "sha256-DrLNP6Exy5khqZJhUXBn0/cW3tTvqlzjvZDM4uUPaw0="
         }
       ]
     },
@@ -3673,6 +3715,88 @@
       ]
     },
     {
+      "Route": "images/imgggpt.mxa38leiua.png",
+      "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\imgggpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1212305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5smH5BBMDlPHecNaTUgAaHjtztpvYhS4uf6Fau4hFx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 12:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxa38leiua"
+        },
+        {
+          "Name": "label",
+          "Value": "images/imgggpt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5smH5BBMDlPHecNaTUgAaHjtztpvYhS4uf6Fau4hFx0="
+        }
+      ]
+    },
+    {
+      "Route": "images/imgggpt.png",
+      "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\imgggpt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1212305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5smH5BBMDlPHecNaTUgAaHjtztpvYhS4uf6Fau4hFx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 12:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5smH5BBMDlPHecNaTUgAaHjtztpvYhS4uf6Fau4hFx0="
+        }
+      ]
+    },
+    {
       "Route": "images/logo.jpg",
       "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
@@ -3751,6 +3875,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-CKdsnT0JBvRJL4ZUDsieqSxOlep4eQMn7NblWfJxBK4="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.jpg",
+      "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3gGIKxdby9cTVehUjbbjNo7Nlxu14xR59KbKi4R4sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 14:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3gGIKxdby9cTVehUjbbjNo7Nlxu14xR59KbKi4R4sY="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.navlrrml5q.jpg",
+      "AssetFile": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3gGIKxdby9cTVehUjbbjNo7Nlxu14xR59KbKi4R4sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 14:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "navlrrml5q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3gGIKxdby9cTVehUjbbjNo7Nlxu14xR59KbKi4R4sY="
         }
       ]
     },

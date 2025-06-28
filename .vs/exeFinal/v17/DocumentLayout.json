@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TaiLieu\\EXE\\exeFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\background.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\background.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_prefooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_prefooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\character.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\character.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_newarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_newarrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\newitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\setclother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\setclother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_animesections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_animesections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\introduce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\introduce.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_mainnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_mainnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_mainfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_mainfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\pages\\shared\\_shopinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:pages\\shared\\_shopinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|d:\\tailieu\\exe\\exefinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C1F6E54-DFDA-4847-9E99-D01A31CB3546}|exeFinal.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_NewArrivals.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_NewArrivals.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_NewArrivals.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_NewArrivals.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_NewArrivals.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T06:02:07.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T14:41:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Banner.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Banner.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T14:41:47.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MainContent.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainContent.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_MainContent.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainContent.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_MainContent.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwHIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:30:28.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\contact.cshtml",
+              "RelativeDocumentMoniker": "Pages\\contact.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\contact.cshtml",
+              "RelativeToolTip": "Pages\\contact.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:36:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Character.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Character.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Character.cshtml",
+              "RelativeToolTip": "Pages\\Character.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T13:34:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:00:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Background.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Background.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Background.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Background.cshtml",
+              "RelativeToolTip": "Pages\\Background.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T13:43:21.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PreFooter.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_PreFooter.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_PreFooter.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_PreFooter.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_PreFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T06:03:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AnimeSections.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_AnimeSections.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_AnimeSections.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_AnimeSections.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_AnimeSections.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T06:00:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "newItem.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\newItem.cshtml",
+              "RelativeDocumentMoniker": "Pages\\newItem.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\newItem.cshtml",
+              "RelativeToolTip": "Pages\\newItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T06:02:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetClother.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\SetClother.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SetClother.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\SetClother.cshtml",
+              "RelativeToolTip": "Pages\\SetClother.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T05:59:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "introduce.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\introduce.cshtml",
+              "RelativeDocumentMoniker": "Pages\\introduce.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\introduce.cshtml",
+              "RelativeToolTip": "Pages\\introduce.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:36:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T13:43:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_MainNav.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainNav.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_MainNav.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainNav.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_MainNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T15:00:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_MainFooter.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainFooter.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_MainFooter.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_MainFooter.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_MainFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T13:34:33.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ShopInfo.cshtml",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_ShopInfo.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ShopInfo.cshtml",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\Pages\\Shared\\_ShopInfo.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ShopInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:37:14.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T16:02:25.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "D:\\TaiLieu\\EXE\\exeFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T16:09:13.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

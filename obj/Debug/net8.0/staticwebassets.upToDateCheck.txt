@@ -17,7 +17,9 @@ wwwroot\images\fig2.jpg
 wwwroot\images\fig3.jpg
 wwwroot\images\fig4.jpg
 wwwroot\images\fig5.jpg
+wwwroot\images\imgggpt.png
 wwwroot\images\logo.jpg
+wwwroot\images\logo1.jpg
 wwwroot\images\natra.png
 wwwroot\images\natra_f.png
 wwwroot\images\nb.png
